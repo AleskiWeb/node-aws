@@ -1,4 +1,4 @@
-FROM node:8
+FROM chybie/node-aws-cli
 
 RUN apt update
 
